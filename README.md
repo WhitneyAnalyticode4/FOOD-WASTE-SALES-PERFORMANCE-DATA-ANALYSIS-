@@ -75,3 +75,4 @@ This project focuses on analyzing sales data to uncover insights into product pe
 ---
 
 ## Project Preview
+*(Food waste & sales performance Dashboard.JPG)*
