@@ -75,4 +75,4 @@ This project focuses on analyzing sales data to uncover insights into product pe
 ---
 
 ## Project Preview
-![Dashboard](271DC455-C070-4A70-B509-63792062F948.jpeg)
+![Dashboard](EF9FCAB4-DCB8-415A-A56D-7C645F190AD3.jpeg)
